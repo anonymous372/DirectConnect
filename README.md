@@ -1,4 +1,4 @@
-# DirectConnect ⚡
+# <img src="logo.png" height="64" align="center"> DirectConnect
 
 Look, I get it. This extension isn't changing the world. It adds one tiny, hyper-specific feature to LinkedIn. But if you're actively trying to expand your network, you know exactly how annoying the manual process is:
 
@@ -22,3 +22,7 @@ It adds very little convenience on paper, but it's of **massive utility** when y
 2. Toggle on **Developer mode** in the top right corner.
 3. Click **Load unpacked** and select this directory.
 4. Head over to LinkedIn's people search and start connecting!
+
+*(Yeah, manual installation is a tiny bit annoying, but hey, it's better than me paying Google a $5 fee just to put this on the Chrome Web Store.)*
+
+Made by @anonymous372
