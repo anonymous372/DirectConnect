@@ -18,10 +18,11 @@ It injects a "Direct Connect" button directly into the LinkedIn search results r
 It adds very little convenience on paper, but it's of **massive utility** when you're networking at scale. You can now breeze down a list of search results with a single click per person.
 
 ### Installation
-1. Open Chrome and navigate to `chrome://extensions/`
-2. Toggle on **Developer mode** in the top right corner.
-3. Click **Load unpacked** and select this directory.
-4. Head over to LinkedIn's people search and start connecting!
+1. **Get the code**: Run `git clone https://github.com/anonymous372/DirectConnect.git` in your terminal, OR click the green "Code" button and select "Download ZIP", then extract it to a folder on your computer.
+2. Open Chrome and navigate to `chrome://extensions/`
+3. Toggle on **Developer mode** in the top right corner.
+4. Click **Load unpacked** and select the folder you just downloaded/cloned.
+5. Head over to LinkedIn's people search and start connecting!
 
 *(Yeah, manual installation is a tiny bit annoying, but hey, it's better than me paying Google a $5 fee just to put this on the Chrome Web Store.)*
 
