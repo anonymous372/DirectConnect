@@ -23,6 +23,6 @@ It adds very little convenience on paper, but it's of **massive utility** when y
 3. Click **Load unpacked** and select this directory.
 4. Head over to LinkedIn's people search and start connecting!
 
-*(Yeah, manual installation is a tiny bit annoying, but hey, it's better than me paying Google a $5 fee just to put this on the Chrome Web Store.)*
+*(Yeah, manual installation is a tiny bit annoying, but hey, it's better than me paying Google a $5 fee just to put this on the Chrome Web Store 🥹)*
 
 Made by @anonymous372
