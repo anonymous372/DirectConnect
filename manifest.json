@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "DirectConnect",
+  "version": "1.0",
+  "description": "Directly send connection requests from LinkedIn search results.",
+  "icons": {
+    "16": "logo.png",
+    "32": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*.linkedin.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.linkedin.com/search/results/people/*",
+        "*://*.linkedin.com/in/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
